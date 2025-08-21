@@ -1,4 +1,4 @@
-# YWlzZW5vZG5JIGVNaVY-
+# GwpyRajxysvcj
 ```bash
 cat file_pecahan_ke-* > file_gabungan_utuh
 ```
